@@ -14,12 +14,6 @@ first pull the project code from github
 
 5.Create fifth folder name it Exit_picture2, then check the path destination of the folder in code6.py , and code7.py
 
-6.Create sixth folder name it Face_model and store facemodel.pkl that you pulled , 
-then check the path destination of the folder in code4.py , code5.py , code6.py
-
-7.create seventh folder name it  haarcascade_files and store haarcascade_frontalface_alt.xml that you pulled , and check path in capture_image.py
-
-8.create eighthfolder name it  Emotion_model folder and store \_mini_XCEPTION.64-0.82.hdf5 that you pulled , and check path in code7.py
 
 !!the next step is to  install all the packages 
 
